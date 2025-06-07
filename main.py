@@ -9,7 +9,7 @@ from flask import Flask
 app = Flask('')
 
 # ===== CONFIGURATION =====
-STREAM_KEY = "15xu-ph9h-a8mt-k62c-19jq"  # From YouTube Studio
+STREAM_KEY = "s80b-j7gw-xaqr-2dty-7dj2"  # From YouTube Studio
 VIDEOS = [
     "https://studyti.b-cdn.net/15.mp4",
     "https://studyti.b-cdn.net/16.mp4",
